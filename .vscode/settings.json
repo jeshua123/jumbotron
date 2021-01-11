@@ -1,0 +1,10 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "emmet.excludeLanguages": [
+    "!**/node_modules/**"
+        "markdown"
+    ]
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     }
+}
