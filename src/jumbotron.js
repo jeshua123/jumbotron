@@ -5,3 +5,4 @@ export const obj1= {
     p3:"It uses utility classes for typography and spacing to space content out within the larger container.",
     p4a:"Learn more"
 }
+.
